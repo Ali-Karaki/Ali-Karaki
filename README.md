@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ali Karaki</h1>
-<h3 align="center">Full Stack Developer, AUB Computer Science student</h3>
+<h3 align="center">Full Stack Engineer</h3>
 
-- 🌱 I’m currently learning **Next.js and AWS**
+- 🌱 I’m currently learning **gRPC microservices in Go**
 
 - 👯 I’m looking to collaborate on **any open source project**
 
-- 📫 How to reach me **amk115@mail.aub.edu**
+- 📫 How to reach me **ali.m.karaki@gmail.com**
 
 - ⚡ Fun fact **I've been playing chess since 10 years old!**
 
