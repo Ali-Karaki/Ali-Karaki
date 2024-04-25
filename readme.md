@@ -1,17 +1,13 @@
 <p align="center">
-  <a href="https://github.com/Ali-Karaki">
-  <span style="text-align:center; color:#f75c7e; font-style:italic; font-size:25px;">Ali Karaki</span>
-</p>
-
-<p align="center">
-    <img style="margin-left:200px" src="https://readme-typing-svg.demolab.com/?lines=Full%20Stack%20Engineer;4+%20years%20of%20experience;Always%20learning&font=Fira%20Code%C2%A2er=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
+  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
+    <img src="https://readme-typing-svg.demolab.com/?lines=Ali%20Karaki;Full%20Stack%20Engineer;4+%20Years%20Of%20Experience;Always%20Learning&font=Fira%20Code%C2%A2er=true&width=500&height=65&color=f75c7e&vCenter=true&pause=100&size=24" />
   </a>
 
 <!-- Social icons section -->
 <p align="center">
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/karaki-ali/"><img width="32px" alt="LinkedIm" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://dev.to/alikaraki"><img width="32px" alt="Dev.to" title="Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
 </p>
 
